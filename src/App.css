@@ -3,6 +3,16 @@ body {
 	background-color: rgb(229, 229, 229);
 }
 
+ul {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+}
+
+li {
+	margin-right: 2rem;
+}
+
 .container {
 	max-width: 600px;
 }
