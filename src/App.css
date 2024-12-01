@@ -36,6 +36,10 @@ button {
 	margin-bottom: 80px;
 }
 
+span {
+	margin-right: 0.5rem;
+}
+
 footer {
 	font-size: 0.8rem;
 	background-color: rgb(51, 51, 51);
