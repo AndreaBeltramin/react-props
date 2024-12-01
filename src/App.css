@@ -13,6 +13,10 @@ li {
 	margin-right: 2rem;
 }
 
+li:hover {
+	cursor: pointer;
+}
+
 .container {
 	max-width: 600px;
 }
